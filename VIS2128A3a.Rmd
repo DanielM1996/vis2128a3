@@ -1,6 +1,6 @@
 ---
-title: "VIS2128A3A"
-author: "DM"
+title: "Assignment 3 - Portland, Oregon"
+author: "Daniel Montoya"
 date: "9/20/2021"
 output: html_document
 ---
